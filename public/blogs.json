@@ -1,0 +1,59 @@
+[
+    {
+      "title": " CLOUD SECURITY FUNDAMENTALS ",
+      "category": "Virtual Internship",
+      "date": "08-09-2024",
+      "image": "/images/s3c1.jpg",
+      "description": "Completed an AICTE-endorsed internship, mastering Blue Prism’s tools to automate and streamline complex business processes."
+    },
+    {
+      "title": "CYBERSECURITY FUNDAMENTALS",
+      "category": "Virtual Internship",
+      "date": "29 Dec, 2023",
+      "image": "/images/S3C6.jpg",
+      "description": "Acquired foundational cybersecurity knowledge through an IBM-certified course, focusing on digital risk management and secure practices."
+    },
+    {
+      "title": " CYBERSECURITY VIRTUAL INTERNSHIP",
+      "category": "Virtual Internship",
+      "date": "17 Jul, 2023",
+      "image": "/images/S3C7.jpg",
+      "description": "Developed practical skills in embedded systems design via an AICTE-accredited program, working extensively with microchip technology."
+    },
+    {
+        "title": "CERT & LOR PAWZZ",
+        "category": "Virtual Internship",
+        "date": "12 May, 2024",
+        "image": "/images/S3C8.jpg",
+        "description": "Gained expertise in network security fundamentals with Fortinet technologies, certified through AICTE to strengthen digital defenses."
+      },
+    {
+      "title": "GIT HUB FUNDAMENTALS ",
+      "category": "Virtual Internship",
+      "date": "04 Apr, 2023",
+      "image": "/images/S3C12.jpg",
+      "description": "Gained hands-on experience with GitHub essentials including version control, branching, merging, and collaboration workflows. Developed and managed repositories effectively as part of a virtual internship project"
+    },
+    {
+      "title": "PYTHON PROGRAMMING",
+      "category": "GFG COURSE",
+      "date": "15 Sept, 2022",
+      "image": "/images/S3C11.jpg",
+      "description": "Completed a comprehensive course on Python programming through GeeksforGeeks, covering fundamental concepts such as data types, control structures, functions, object-oriented programming, and file handling."
+    },
+    {
+        "title": "NASA INTERNATIONAL SPACE APP CHALLANGE 2024",
+        "category": "Hackathon",
+        "date": "5-6 Oct, 2024",
+        "image": "/images/S3C5.jpg",
+        "description": "Participated in NASA’s global hackathon, exploring innovative solutions and developing projects aligned with the theme 'The Sun Touches Everything' to address real-world challenges inspired by solar influence on Earth and beyond."
+      },
+      {
+        "title": "SMART INDIA HACKATHON PRE-QUALIFIERS",
+        "category": "Hackathon",
+        "date": "5-6 Sept, 2024",
+        "image": "/images/S3C10.jpg",
+        "description": "Participated in SIH pre-qualifiers with a focus on robotics, designing an automated water surface cleaning robot to address environmental pollution through efficient, autonomous waste collection."
+      }
+  ]
+  
