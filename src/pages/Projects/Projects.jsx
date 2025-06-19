@@ -123,7 +123,7 @@ const Projects = () => {
                 <ul className='project-list'>
                     {filteredProjects.map(proj => (
                         <li key={proj.id} className='project-item active' data-filter-item data-category={proj.category}>
-                            <a href="">
+                            <a href="{proj.github}">
                                 <figure className='project-img'>
                                     <div className='project-item-icon-box'>
                                         <FaRegEye />
