@@ -3,7 +3,8 @@
       "id": 1,
       "title": "Blogging Website",
       "category": "Web Development",
-      "image": "images/project-1.jpg"
+      "image": "images/project-1.jpg",
+      "github": "https://github.com/Shashank07x"
     },
     {
       "id": 2,
